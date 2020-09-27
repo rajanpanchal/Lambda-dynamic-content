@@ -1,0 +1,7 @@
+Hello ${name},
+
+Say hi to your new credit card!
+Your credit card number is ${creditCardNumber}.
+
+Regards,
+Your Credit Company
